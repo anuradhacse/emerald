@@ -1,11 +1,11 @@
 # Site settings
 title: fortruth | Anuradha Jayalath
 description: "Welcome to my blog"
-url: "http://www.jacoporabolini.com/emerald"
+url: "http://www.anuradhajayalath.com/fortruth"
 author:
   name: "Anuradha Jayalath"
   email: "niroshonmora@gmail.com"
-  url: "http://www.jacoporabolini.com"
+  url: "http://www.anuradhajayalath.com"
 
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
