@@ -35,3 +35,11 @@ A **tensor** is nothing but a set of primitive values shaped into an array of an
 ![tensor rank example](img/tensor_rank.png)
 
 **Node** takes zero or more tensors as inputs and produces a tensor as an output. For example you can have store constant values in two nodes and get the addition of the values of these two nodes to another node. These nodes have unique names. If you want more details there’s a nice tutorial [here](https://www.tensorflow.org/tutorials/).
+
+> **What is Keras** ? Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. All these libraries are developed for deep learning which facilitate the back-propagation calculation using GPU. Keras is just an interface for using the underlying deep learning libraries. Using Keras is pretty straight forward and simple compared to above libraries. In the next part we’ll see how to implement a Neural Network using Keras.
+
+What I have just said are explained by following picture.
+
+![keras stack](img/keras_stack.png)
+
+Now that we have covered all the background stuff, lets jump into coding in [Part II]().
