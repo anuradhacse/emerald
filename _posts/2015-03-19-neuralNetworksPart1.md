@@ -1,7 +1,7 @@
 ---
 title: NeuralNetworksPart1
 name: Step By Step Guide To Run Trained Neural Network Model On Android (Part I) 
-readtime: 3 min
+readtime: 3 min read
 ---
 ![Neural Network](img/neural_cover.png)
 > In this post I am trying to explain how to run a trained neural network model on android. For this guide I’m going to use Keras deep learning library to implement the neural network. The proof of concept code is available on my [GitHub repository](https://github.com/anuradhacse/machine-learning-on-Android). I’ve wrote this post in two parts. Part I will provide all the background information of deep learning libraries that will be useful to understand this guide. In part II , I will guide you through the real coding stuff.

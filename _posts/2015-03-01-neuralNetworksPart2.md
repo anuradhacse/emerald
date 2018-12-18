@@ -1,7 +1,7 @@
 ---
 title: NeuralNetworksPart2
 name: Step By Step Guide To Run Trained Neural Network Model On Android (Part II)
-readtime: 4 min 
+readtime: 4 min read
 ---
 > Hope you have enjoyed the part I of this guide. In part II we'll build our neural network, import it and run it on our android project. Complete android studio project is available on my [github repository](https://github.com/anuradhacse/machine-learning-on-Android).
 
